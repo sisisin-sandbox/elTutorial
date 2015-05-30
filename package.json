@@ -9,6 +9,6 @@
   "author": "sisisin",
   "license": "ISC",
   "devDependencies": {
-    "electron-prebuilt": "^0.27.1"
+    "glob": "^5.0.10"
   }
 }
